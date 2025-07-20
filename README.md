@@ -1,7 +1,6 @@
 # Use Case (Pilot): AI-Enhanced Invoice Automation System
 
-Background 
-Client fee billing and invoicing are essential components of investment banking operations. Fees are typically derived from the valuation of investment accounts 
+Background - Client fee billing and invoicing are essential components of investment banking operations. Fees are typically derived from the valuation of investment accounts 
 and calculated over defined periods such as monthly, quarterly, or annually. Based on this fee information, invoices are then generated and issued to clients for the relevant accounts.
 
 ## 1. Executive Summary
